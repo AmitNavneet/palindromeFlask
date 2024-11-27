@@ -1,0 +1,46 @@
+body{
+    background-color: aqua;
+    font-size: medium;
+    font-family: cursive;
+
+}
+h1{
+    color: blue;
+    font-family: cursive;
+    text-align: center;
+}
+
+form{
+    background-color: cadetblue;
+    width: 50%;
+    margin: auto;
+    border: 10px dashed red;
+    padding:50px
+}
+table
+{
+    background-color: aquamarine;
+    margin: auto;
+    padding: 20px;
+    border: 2px dashed black;
+    
+}
+    
+td{
+    padding: 10px;
+    text-align: center;
+}
+
+input{
+    border: 1px solid black;
+    height: 30px;
+    color: black;
+    background-color: palevioletred;
+    font-size: medium;
+    
+}
+
+input[type=reset]
+{
+    width: 150px;
+}
